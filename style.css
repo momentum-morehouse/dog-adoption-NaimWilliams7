@@ -1,0 +1,32 @@
+header {
+    color: white;
+    background-color: #004175;
+    border-bottom: 5px solid #89DEEF;
+
+} 
+
+body {
+    font-family: sans-serif;
+}
+
+.flex-container {
+    justify-content: center;
+    border: 10px #004175;
+    height: 90vh;
+    max-width: 700px;
+    margin: auto;
+    font-size: 10px;
+}
+
+img {
+    height: 20vh;
+    width: 30vh;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+p {
+    font-size: 10px;
+}
